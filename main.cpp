@@ -5,5 +5,6 @@ int main() {
     std::cout << "New branch!" << std::endl;
     std::cout << "Next commitm!" << std::endl;
     std::cout << "Other branch!" << std::endl;
+    std::cout << "Slack!" << std::endl;
     return 0;
 }
